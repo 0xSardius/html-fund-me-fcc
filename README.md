@@ -1,3 +1,5 @@
 # About this Project
 
-1. We will use HTML / Javascript to build a front end for our project, to understand before diving in to React / Next.Js
+Simple front end interface for the hardhat fcc fund me app.
+
+Allows you to fund using Hardhat localhost, view balance, and withdraw.
